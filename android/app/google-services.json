@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000995692349",
+    "project_id": "special-hockey-ki7k0m",
+    "storage_bucket": "special-hockey-ki7k0m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000995692349:android:6fc0c8606e6b56b03d6f54",
+        "android_client_info": {
+          "package_name": "ai.conceptix.specialhockey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQhoJvjLOEYe5Fdqbwj1z-PDaW5Grwhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
